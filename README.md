@@ -1,4 +1,4 @@
-# ICTCS214 - Data Structures and Algorithms Lab
+# ITCS214 - Data Structures and Algorithms Lab
 
 ## Introduction
 This repository contains my Java implementations of fundamental data structures and algorithms class at De La Salle University Dasmarinas.
