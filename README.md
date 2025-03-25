@@ -37,14 +37,14 @@ Guide:
 | 2.3 | Stack - Balance                        | Lab: Stack                        | n/a      |
 | 2.2 | Stack - Operations                     | Lab: Stack                        | n/a      |
 | 2.1 | Stack - Concept                        | Lab: Stack                        | n/a      |
-| 1.8 | Midterm Summative 2024                 | Lab: Linked List - Summative      | n/a      |
-| 1.7 | Linked List: Inserting Elements (EA)   | Lab: Linked List                  | n/a      |
-| 1.6 | Product of Two Matrices (EA)           | Lab: Two Dimensional Arrays       | n/a      |
-| 1.5 | Merging Arrays                         | Lab: Two Dimensional Arrays       | n/a      |
-| 1.4 | Retooling Assessment 4 (EA)            | Retooling Assessments             | n/a      |
-| 1.3 | Retooling Assessment 3 (EA)            | Retooling Assessments             | n/a      |
-| 1.2 | Retooling Assessment 2 (EA)            | Retooling Assessments             | n/a      |
-| 1.1 | Retooling Assessment 1 (EA)            | Retooling Assessments             | n/a      |
+| 1.8 | Midterm Summative 2024                 | Lab: Linked List - Summative      | DSA_18.class       |
+| 1.7 | Linked List: Inserting Elements (EA)   | Lab: Linked List                  | DSA_17.class        |
+| 1.6 | Product of Two Matrices (EA)           | Lab: Two Dimensional Arrays       | DSA_16.class         |
+| 1.5 | Merging Arrays                         | Lab: Two Dimensional Arrays       | DSA_15.class          |
+| 1.4 | Retooling Assessment 4 (EA)            | Retooling Assessments             | DSA_14.class          |
+| 1.3 | Retooling Assessment 3 (EA)            | Retooling Assessments             | DSA_13.class        |
+| 1.2 | Retooling Assessment 2 (EA)            | Retooling Assessments             | DSA 11and12.class      |
+| 1.1 | Retooling Assessment 1 (EA)            | Retooling Assessments             | DSA 11and12.class      |
 
 ---
 ### Note:
