@@ -51,6 +51,24 @@ Guide:
 Specific implementations and problem-solving techniques will be provided during the lab sessions.
 The midterm and final exams will assess your understanding of the concepts and your ability to apply them to solve problems.
 
+### **Cloning the Repository**
+```bash
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+```
+
+Open the project in IntelliJ IDEA and ensure your **Java SDK** is set up under **File > Project Structure > Project**.
+
+## **Troubleshooting**
+**Issue:** IntelliJ shows `Decompiled .class file, bytecode version: 61.0 (Java 17)` instead of source code.
+
+**Solution:**
+1. In **Project Explorer**, check if your `.java` source files exist under `src/`.
+2. If missing, right-click the root directory → **"Mark Directory as" → "Sources Root"**.
+3. Restart IntelliJ IDEA and rebuild the project (**Build > Rebuild Project**).
+
+Now, IntelliJ should recognize and compile your Java files correctly.
+
 Contributing Feel free to contribute to this repository by:
 - Adding new data structures and algorithms.
 - Improving existing implementations.
