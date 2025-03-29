@@ -27,24 +27,24 @@ Guide:
 
 | #  | Title                                   | Lesson/Topic                      | Filename |
 |----|-----------------------------------------|------------------------------------|----------|
-| 2.10  | DSA Finals Lab Summative 2024        | Lab: Trees and Binary Trees       | n/a      |
-| 2.9  | Graphs                                | Lab: Graphs                       | n/a      |
-| 2.8  | Binary Tree Traversal                 | Lab: Trees and Binary Trees       | n/a      |
-| 2.7 | Counting Leaves of a Tree              | Lab: Trees and Binary Trees       | n/a      |
-| 2.6 | Queue - Decimal Number System          | Lab: Queue                        | n/a      |
-| 2.5 | Queue - Operations                     | Lab: Queue                        | n/a      |
-| 2.4 | Stack - Palindrome                     | Lab: Stack                        | n/a      |
-| 2.3 | Stack - Balance                        | Lab: Stack                        | n/a      |
-| 2.2 | Stack - Operations                     | Lab: Stack                        | n/a      |
-| 2.1 | Stack - Concept                        | Lab: Stack                        | n/a      |
-| 1.8 | Midterm Summative 2024                 | Lab: Linked List - Summative      | DSA_18.class       |
-| 1.7 | Linked List: Inserting Elements (EA)   | Lab: Linked List                  | DSA_17.class        |
-| 1.6 | Product of Two Matrices (EA)           | Lab: Two Dimensional Arrays       | DSA_16.class         |
-| 1.5 | Merging Arrays                         | Lab: Two Dimensional Arrays       | DSA_15.class          |
-| 1.4 | Retooling Assessment 4 (EA)            | Retooling Assessments             | DSA_14.class          |
-| 1.3 | Retooling Assessment 3 (EA)            | Retooling Assessments             | DSA_13.class        |
-| 1.2 | Retooling Assessment 2 (EA)            | Retooling Assessments             | DSA 11and12.class      |
-| 1.1 | Retooling Assessment 1 (EA)            | Retooling Assessments             | DSA 11and12.class      |
+| 2.10  | DSA Finals Lab Summative 2024        | Lab: Trees and Binary Trees       | DSA_210.java      |
+| 2.9  | Graphs                                | Lab: Graphs                       | DSA_29.java      |
+| 2.8  | Binary Tree Traversal                 | Lab: Trees and Binary Trees       | DSA_28.java      |
+| 2.7 | Counting Leaves of a Tree              | Lab: Trees and Binary Trees       | DSA_27.java      |
+| 2.6 | Queue - Decimal Number System          | Lab: Queue                        | DSA_26.java      |
+| 2.5 | Queue - Operations                     | Lab: Queue                        | DSA_25.java      |
+| 2.4 | Stack - Palindrome                     | Lab: Stack                        | DSA_24.java      |
+| 2.3 | Stack - Balance                        | Lab: Stack                        | DSA_23.java      |
+| 2.2 | Stack - Operations                     | Lab: Stack                        | DSA_22.java      |
+| 2.1 | Stack - Concept                        | Lab: Stack                        | DSA_21.java      |
+| 1.8 | Midterm Summative 2024                 | Lab: Linked List - Summative      | DSA_18.java       |
+| 1.7 | Linked List: Inserting Elements (EA)   | Lab: Linked List                  | DSA_17.java          |
+| 1.6 | Product of Two Matrices (EA)           | Lab: Two Dimensional Arrays       | DSA_16.java           |
+| 1.5 | Merging Arrays                         | Lab: Two Dimensional Arrays       | DSA_15.java          |
+| 1.4 | Retooling Assessment 4 (EA)            | Retooling Assessments             | DSA_14.java          |
+| 1.3 | Retooling Assessment 3 (EA)            | Retooling Assessments             | DSA_13.java        |
+| 1.2 | Retooling Assessment 2 (EA)            | Retooling Assessments             | DSA 11and12.java      |
+| 1.1 | Retooling Assessment 1 (EA)            | Retooling Assessments             | DSA 11and12.java      |
 
 ---
 ### Note:
@@ -52,8 +52,8 @@ Specific implementations and problem-solving techniques will be provided during 
 The midterm and final exams will assess your understanding of the concepts and your ability to apply them to solve problems.
 
 ### **Cloning the Repository**
-```bash
-git clone https://github.com/yourusername/your-repo.git
+```powershell
+git clone https://github.com/keonbe/ITCS214.git
 cd your-repo
 ```
 
